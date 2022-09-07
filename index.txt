@@ -5,3 +5,17 @@ Empezó en el año 2018, una larga travesia estaba por tomar rumbo.
 Salí de mi casa en la mañana junto a mi abuela, mi tio su esposa e hijo, a su vez mi padre y hermano menor nos acompañaban.
 
 Estoy comiendo leche con galleta oreo.
+
+Experimento 1
+
+Experimento 2
+
+Experimento 3
+
+<<<<<<< HEAD
+Master
+
+Master1
+=======
+Master
+>>>>>>> 21d10a4 (ex3)
