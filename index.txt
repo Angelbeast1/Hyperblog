@@ -12,6 +12,10 @@ Experimento 2
 
 Experimento 3
 
+<<<<<<< HEAD
 Master
 
 Master1
+=======
+Master
+>>>>>>> 21d10a4 (ex3)
